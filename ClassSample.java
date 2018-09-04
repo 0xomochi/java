@@ -2,12 +2,7 @@
 //ClassSample.java
 
 class ClassSample{
-/*
-public static void main(String[] args){
-    ClassSample printm = new ClassSample();
-        printm.printMessage();
-}
-*/
+
     //フィールド
     String name;    //[1]
     String address; //[2]
